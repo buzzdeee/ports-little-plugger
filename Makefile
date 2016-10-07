@@ -1,8 +1,8 @@
-# $OpenBSD: Makefile,v 1.17 2014/01/15 02:13:58 jeremy Exp $
+# $OpenBSD$
 
-COMMENT =	ffi wrapper around GSSAPI
+COMMENT =	gem based plugin management
 
-DISTNAME =	little-plugger-1.1.3
+DISTNAME =	little-plugger-1.1.4
 CATEGORIES =	devel
 
 HOMEPAGE=	http://gemcutter.org/gems/little-plugger
